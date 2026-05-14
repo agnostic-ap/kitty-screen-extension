@@ -1,0 +1,11 @@
+# Cat animation assets (user-supplied, not committed)
+assets/cat/*.mp4
+assets/cat/*.webm
+assets/cat/*.mov
+
+# Extension icons (user-supplied)
+assets/icons/*.png
+
+# Build output
+dist/
+*.zip

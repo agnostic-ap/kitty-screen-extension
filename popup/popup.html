@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kitty Screen</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="header">
+        <img src="../assets/icons/icon-48.png" alt="" class="logo" />
+        <h1 class="title">Kitty Screen</h1>
+      </header>
+
+      <!-- Timer status -->
+      <div class="timer-bar" id="timer-bar">
+        <span class="timer-label" id="timer-label">—</span>
+        <div class="timer-track">
+          <div class="timer-fill" id="timer-fill"></div>
+        </div>
+      </div>
+
+      <!-- Delay -->
+      <section class="setting-row" id="section-delay">
+        <div class="setting-label" id="label-delay"></div>
+        <div class="option-grid" id="grid-delay"></div>
+      </section>
+
+      <!-- Duration -->
+      <section class="setting-row" id="section-duration">
+        <div class="setting-label" id="label-duration"></div>
+        <div class="option-grid" id="grid-duration"></div>
+      </section>
+
+      <!-- Actions -->
+      <footer class="footer">
+        <button class="btn btn--warning" id="btn-preview"></button>
+      </footer>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

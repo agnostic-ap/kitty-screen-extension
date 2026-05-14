@@ -1,0 +1,22 @@
+{
+  "appName": { "message": "Kitty Screen" },
+  "appDescription": { "message": "A cat appears after extended screen time to remind you to take a break." },
+  "delayLabel": { "message": "Show after" },
+  "durationLabel": { "message": "Duration" },
+  "languageLabel": { "message": "Language" },
+  "preview": { "message": "Preview" },
+  "nextBreak": { "message": "Next break in" },
+  "close": { "message": "Close" },
+  "min15": { "message": "15 min" },
+  "min30": { "message": "30 min" },
+  "hour1": { "message": "1 h" },
+  "hour15": { "message": "1.5 h" },
+  "hour2": { "message": "2 h" },
+  "hour3": { "message": "3 h" },
+  "sec15": { "message": "15 s" },
+  "sec30": { "message": "30 s" },
+  "min1": { "message": "1 min" },
+  "min2": { "message": "2 min" },
+  "min5": { "message": "5 min" },
+  "min10": { "message": "10 min" }
+}

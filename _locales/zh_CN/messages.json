@@ -1,0 +1,22 @@
+{
+  "appName": { "message": "Kitty Screen" },
+  "appDescription": { "message": "长时间盯屏幕后，一只猫咪会出现提醒你休息。" },
+  "delayLabel": { "message": "多久后出现" },
+  "durationLabel": { "message": "持续多久" },
+  "languageLabel": { "message": "语言" },
+  "preview": { "message": "预览" },
+  "nextBreak": { "message": "下次休息" },
+  "close": { "message": "关闭" },
+  "min15": { "message": "15分钟" },
+  "min30": { "message": "30分钟" },
+  "hour1": { "message": "1小时" },
+  "hour15": { "message": "1.5小时" },
+  "hour2": { "message": "2小时" },
+  "hour3": { "message": "3小时" },
+  "sec15": { "message": "15秒" },
+  "sec30": { "message": "30秒" },
+  "min1": { "message": "1分钟" },
+  "min2": { "message": "2分钟" },
+  "min5": { "message": "5分钟" },
+  "min10": { "message": "10分钟" }
+}
